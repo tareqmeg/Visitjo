@@ -1,0 +1,41 @@
+body{
+    margin: auto;
+    width: 1500px;
+    box-align: center;
+
+}
+.nav1 {
+    padding: 60px;
+}
+header img {
+    width: 100px;
+    float: left;
+}
+header nav ul li {
+    display: inline;
+    float:right;
+    padding: 8px;
+  background-color:burlywood;
+}
+
+.m1 {
+   float: left;
+    align-content: center;
+    border: 1px solid;
+    width: 25%;
+    padding: 1%;
+    
+}
+
+main p{
+    padding: 30px;
+    line-height: 1cm;
+    float: left; 
+
+}
+footer{
+    float: right;
+    background-color: cornflowerblue;
+    line-height: 1cm;
+    color: crimson;
+}

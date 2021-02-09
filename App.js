@@ -31,7 +31,7 @@ if (food == "sweets")
         }
         item();
 
-        function greet(){
+       function greet(){
             var nameg = prompt("Enter Your NAme Please no worries for upper or lowercase all names will appear in lower case");
              
             var y = nameg.toLowerCase();
@@ -41,3 +41,4 @@ if (food == "sweets")
             document.write("Hello " + y );
         }
         greet();
+        
